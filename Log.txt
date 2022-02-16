@@ -1,5 +1,3 @@
 Hello world!
 
-Random numbers: 1234
-
-Maths: 2*2 = 4
+Random numbers: 123
